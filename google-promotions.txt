@@ -1,0 +1,2 @@
+promotion_id	product_applicability	offer_type	long_title	promotion_effective_dates	promotion_display_dates	redemption_channel	coupon_value_type	buy_this_quantity	get_this_quantity_discounted	percent_off	promotion_destination	promotion_destination
+freebogo2026	specific_products	no_code	Christmas gift: buy 1 pair, get 1 pair free	2026-10-21T14:40:00+07:00/2026-12-31T23:59:59+07:00	2026-10-26T00:00:00+07:00/2026-12-31T23:59:59+07:00	online	buy_m_get_n_percent_off	1	1	100	shopping_ads	free_listings
